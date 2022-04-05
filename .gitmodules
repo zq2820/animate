@@ -1,3 +1,6 @@
 [submodule "BaiduDisk"]
 	path = BaiduDisk
 	url = https://github.com/zq2820/BaiduDisk.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/zq2820/submodule.git
